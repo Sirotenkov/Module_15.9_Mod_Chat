@@ -1,0 +1,10 @@
+﻿  chat.cpp
+  hash_table.cpp
+  main.cpp
+C:\Users\Aleksey\Desktop\Module_15.9_Mod_Chat\main.cpp(29,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Aleksey\Desktop\Module_15.9_Mod_Chat\main.cpp(38,82): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  sha1.cpp
+C:\Users\Aleksey\Desktop\Module_15.9_Mod_Chat\sha1.cpp(55,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Aleksey\Desktop\Module_15.9_Mod_Chat\x64\Debug\Chat.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Chat.vcxproj -> C:\Users\Aleksey\Desktop\Module_15.9_Mod_Chat\x64\Debug\Chat.exe
